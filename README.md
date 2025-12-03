@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=247EA6&width=435&lines=Discord+RPC)](https://git.io/typing-svg)
-Custom discord RPC status using python UI. Requires discord desktop app to be open in order to function properly.
 
-> ❕ The RPC will take the header of your clients name (discord bot), choose the name you want to appear.
+
+> ❕ The RPC will take the header of your clients name (discord bot), choose the name you want to appear. It also requires the discord app for desktop to be open.
 ### Client ID
 You must chance the client ID in order for it to work, to do this complete the steps below:
 1. Create a discord bot using the [discord developer portal](https://discord.com/developers/applications)
