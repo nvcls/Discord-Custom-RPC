@@ -22,5 +22,5 @@ Use the UI that opens to customise how the RPC looks, to add images, you must do
 - All other info can be typed in
 <img width="195" height="138" alt="image" src="https://github.com/user-attachments/assets/b8ffa1e4-6622-49c2-8f34-d25bd93935b6" />
 
-UI:
+### UI:
 <img width="445" height="374" alt="image" src="https://github.com/user-attachments/assets/8462d16a-b3a1-40ca-b88a-d0bd603b90dd" />
