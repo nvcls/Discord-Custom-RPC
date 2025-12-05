@@ -24,3 +24,6 @@ Use the UI that opens to customise how the RPC looks, to add images, you must do
 
 ### UI:
 <img width="445" height="374" alt="image" src="https://github.com/user-attachments/assets/8462d16a-b3a1-40ca-b88a-d0bd603b90dd" />
+### RPC:
+<img width="355" height="154" alt="image" src="https://github.com/user-attachments/assets/173fdbe4-c88d-43ec-9738-ea438002add7" />
+
